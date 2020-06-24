@@ -1,100 +1,53 @@
-Johnny Coder
+Renan Tiago dos Santos Silva
 ============
 
-----
+> <renan.tssilva@gmail.com> • +55 (11) 96654 0439  • 24 anos\
+> São Paulo - Brasil
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
+Educação
+------------
 
-Education
----------
+2016-2021
+:   **Bacharelado em Ciências da Computação**; Universidade de São Paulo (USP), São Paulo
+    
+    * Auxiliar na administração da [rede de computadores linux](https://linux.ime.usp.br) da faculdade \
+    (6 meses)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+    * Assistente no projeto de inclusão digital do grupo de computação social da USP [TECS](https://www.ime.usp.br/~tecs)
+    (6 meses)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    * Desenvolvedor no grupo de extensão [USPCodeLab](https://codelab.ime.usp.br/#/)
+    (4 meses)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
-    *Minor: Awesomeology*
+Experiência
+------------
 
-Experience
-----------
+03/2019 - 
+:   **Estagiário em Engenharia de Software @ [Wingoo](https://www.wingoo.com.br/)**
+    
+    Parte do time de desenvolvimento, atuando na migração de sistemas legados para arquitetura de microsserviços, visando melhorar a estabilidade e escalabilidade auxiliando no crescimento da empresa utilizando:
+    
+    - JavaScript, Vue.js, Node.js
+    - Scala, Spring, SpringBoot
+    - MongoDB
 
-**Your Most Recent Work Experience:**
+09/2017 - 06/2018
+:   **Estagiário em Engenharia de Software @ [Unovation](http://unovation.com.br)**
+    
+    Parte do time de desenvolvimento, responsável pelo desenvolvimento de APIs RESTful em uma arquitetura monolítica, além de construir uma das aplicações web que as consumiam. Adicionei funcionalidades ao projeto sempre seguindo boas práticas de código utilizando:
+    
+    - JavaScript, Angular.js(1.x), Node.js
+    - Java, Groovy, Spring, SpringBoot
+    - PostgreSQL, RabitMQ
+    - Jenkins, Sonar
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+Projetos em que contribuí
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* [Evident](http://www.fo.usp.br/?p=50782)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+    Em contato direto com os responsáveis pelo projeto, auxiliei na adição de funcionalidades a uma aplicação móvel, melhorando a experiência de usuário.
